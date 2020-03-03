@@ -1,2 +1,2 @@
-# Dice
+# Dice(C#)
 Play Dice program
