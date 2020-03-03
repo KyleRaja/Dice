@@ -1,0 +1,2 @@
+# Dice
+Play Dice program
